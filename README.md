@@ -1,6 +1,6 @@
-# react-jjtpxd
+# Advice App
 
-An app made using React and advice slip json api
+An app made using React and [advice slip json api](https://api.adviceslip.com/)
 
 Package used are:
 1. react
